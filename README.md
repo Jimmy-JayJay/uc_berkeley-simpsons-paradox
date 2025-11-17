@@ -50,7 +50,7 @@ jupyter notebook
 - outputs/           — Figures and reports  
 
 
-## Notebooks (recommended order)
+## Notebooks
 1. 01_exploratory_analysis.ipynb  
 2. 02_statistical_testing.ipynb  
 3. 03_logistic_regression.ipynb  
@@ -72,7 +72,7 @@ Statistical tests:
 Generated figure: outputs/figures/simpsons_paradox_analysis.png
 
 ## Methodology
-1. Data cleaning and encoding  
+1. Data retreval and encoding  
 2. EDA: admission rates by gender and department  
 3. Chi-square tests for independence  
 4. Logistic regression (gender-only vs gender+department)  
@@ -96,5 +96,3 @@ MIT License
 
 ---
 
-
-**Tags**: Simpson's Paradox, Logistic Regression, Data Science, Statistical Analysis, Bias Detection
