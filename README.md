@@ -6,7 +6,7 @@
 This repository analyzes the UC Berkeley 1973 graduate admissions dataset to demonstrate Simpson's Paradox: aggregate gender bias can appear even when department‑level analysis shows no systematic discrimination. The analysis includes exploratory data analysis, statistical testing, and logistic regression models.
 
 ## Team
-- Rachel Anita Sibale 
+- Rachael Anita Sibale 
 - Jimmy Edward Matewere 
 
 ## Key Findings
@@ -87,7 +87,7 @@ Generated figure: outputs/figures/simpsons_paradox_analysis.png
 | Member | Linkedin | Email |
 |-|-|-|
 |Jimmy Edward Matewere | [Jimmy Matewere](https://www.linkedin.com/in/jimmy-matewere/) |jmatewere265@gmail.com|
-|Rachel Anita Sibale| [Rachel Anita](https://www.linkedin.com/in/racheal-anita-sibale-136746208/)|
+|Rachael Anita Sibale| [Rachael Anita](https://www.linkedin.com/in/racheal-anita-sibale-136746208/)|
 
 
 
@@ -95,5 +95,6 @@ Generated figure: outputs/figures/simpsons_paradox_analysis.png
 MIT License
 
 ---
+
 
 **Tags**: Simpson's Paradox, Logistic Regression, Data Science, Statistical Analysis, Bias Detection
